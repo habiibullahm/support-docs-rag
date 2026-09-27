@@ -1,0 +1,20 @@
+Password Reset
+
+Users can reset their password from the login page by clicking "Forgot Password".
+A password reset link will be sent to the registered email address.
+The password reset link expires after 30 minutes.
+
+Account Lock
+
+An account will be temporarily locked after five failed login attempts.
+The account will automatically unlock after 15 minutes.
+
+Refund Policy
+
+Customers can request a refund within 7 days after purchase.
+Refund requests are processed within 3 to 5 business days.
+
+Payment Issues
+
+If a payment is successful but the balance has not been updated,
+customers should wait up to 10 minutes before contacting customer support.
